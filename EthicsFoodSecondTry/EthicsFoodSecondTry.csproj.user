@@ -7,18 +7,18 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="DataDishes\CreateDish.xaml.cs">
+    <Compile Update="Views\CreateDish.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="DataFoods\FoodData.xaml.cs">
+    <Compile Update="Views\FoodData.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="DataDishes\CreateDish.xaml">
+    <Page Update="Views\CreateDish.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="DataFoods\FoodData.xaml">
+    <Page Update="Views\FoodData.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainWindow.xaml">
