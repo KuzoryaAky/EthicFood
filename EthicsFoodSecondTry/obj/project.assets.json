@@ -8,23 +8,23 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kuzor\\.nuget\\packages\\": {},
+    "C:\\Users\\opanf\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WORK\\C#\\projects\\EthicsFoodSecondTry\\EthicsFoodSecondTry\\EthicsFoodSecondTry.csproj",
+      "projectUniqueName": "D:\\Work\\C#\\GitProject\\EthicFood\\EthicsFoodSecondTry\\EthicsFoodSecondTry.csproj",
       "projectName": "EthicsFoodSecondTry",
-      "projectPath": "C:\\WORK\\C#\\projects\\EthicsFoodSecondTry\\EthicsFoodSecondTry\\EthicsFoodSecondTry.csproj",
-      "packagesPath": "C:\\Users\\kuzor\\.nuget\\packages\\",
-      "outputPath": "C:\\WORK\\C#\\projects\\EthicsFoodSecondTry\\EthicsFoodSecondTry\\obj\\",
+      "projectPath": "D:\\Work\\C#\\GitProject\\EthicFood\\EthicsFoodSecondTry\\EthicsFoodSecondTry.csproj",
+      "packagesPath": "C:\\Users\\opanf\\.nuget\\packages\\",
+      "outputPath": "D:\\Work\\C#\\GitProject\\EthicFood\\EthicsFoodSecondTry\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\kuzor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\opanf\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/SMSLab/SMS/_packaging/SMS_Feed/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net5.0-windows7.0": {
@@ -68,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
